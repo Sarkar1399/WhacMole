@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whac-A-Mole</string>
+    <string name="todo">TODO</string>
+    <string name="userRecord">Ваш текуший рекорд: %s</string>
+    <string name="play">Play</string>
+    <string name="titleAbout">Об игре:</string>
+    <string name="textAboutGame">Правила просты: бейте родинок, когда они загораются! Вы потеряете очки, если попадете в них, когда они не светятся.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="backToMainMenu">Главный меню</string>
+    <string name="userScore">Ваш текущий счет составляет %s баллов</string>
+    <string name="userNewRecord">Ваш новый рекорд составляет %s баллов</string>
+    <string name="playAgain">Играть заного</string>
+</resources>
